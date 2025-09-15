@@ -1,0 +1,1 @@
+yes made with ai did not have time to do it myself but it works. is the code quality bad and  am i generating tech debt probably, did i do it any  ways of course cause its great to visualize shit you dont understand
